@@ -5,6 +5,7 @@
  */
 
 #include <stdio.h>
+#include <stdlib.h>
 
 void fibo(int max);     // Prints fibonacchi Numbers
 
